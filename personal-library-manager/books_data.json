@@ -1,0 +1,16 @@
+[
+    {
+        "title": "The Last Promise",
+        "author": "Liam Ackerley",
+        "year": "2019",
+        "genre": "last promise",
+        "read": true
+    },
+    {
+        "title": "Stolen Hearts",
+        "author": "Sofia James",
+        "year": "2021",
+        "genre": "hearts",
+        "read": false
+    }
+]
